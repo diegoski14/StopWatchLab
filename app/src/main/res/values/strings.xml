@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabStopWatch</string>
+    <string name="timeView"></string>
+    <string name="current"></string>
+</resources>
